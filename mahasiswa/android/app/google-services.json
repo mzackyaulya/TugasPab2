@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "845791901901",
+    "project_id": "tugaspab2-53875",
+    "storage_bucket": "tugaspab2-53875.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845791901901:android:d73d84b1a067df7ec31184",
+        "android_client_info": {
+          "package_name": "com.example.mahasiswa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALihFtfpviGnAGJvLgrtKNWA30YV8KU1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845791901901:android:39bfed4530170f3ec31184",
+        "android_client_info": {
+          "package_name": "com.kyzux.mahasiswa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALihFtfpviGnAGJvLgrtKNWA30YV8KU1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
